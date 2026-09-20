@@ -1,16 +1,35 @@
-## Hi there 👋
+👋 Hi, I'm Madhav Kumar Mycharla
 
-<!--
-**MadhavMycharla123/MadhavMycharla123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛡️ Cybersecurity & SOC Analyst Enthusiast
+💻 Computer Technician | IT Support
+🎓 MCA
 
-Here are some ideas to get you started:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛡️ CYBERSECURITY
+Nmap • Nuclei • Kali Linux • OWASP
+VirusTotal • AbuseIPDB • Network Security
+
+💻 TECHNOLOGIES
+Python • FastAPI • JavaScript • React
+Node.js • Git • GitHub • Linux • Windows
+
+🚀 FEATURED PROJECTS
+
+🔐 VulnScannerPro
+Web vulnerability scanning and security assessment platform.
+
+🛡️ RakshNet
+AI/ML-based phishing detection platform.
+
+👤 AeroFace
+Biometric attendance and workforce management system.
+
+📄 All-in-one Resume Builder
+Privacy-focused client-side resume builder.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🌐 Portfolio
+💼 LinkedIn
+📫 Contact
